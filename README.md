@@ -1,2 +1,2 @@
 # project-ruby
-odin project exercise
+odin project exercise, www.theodinproject.com
